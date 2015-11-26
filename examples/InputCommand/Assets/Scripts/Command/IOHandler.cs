@@ -49,37 +49,38 @@ namespace aeonphyxius.command
             // Up
             if ( Input.GetKey(KeyCode.UpArrow))
             {
-                Debug.Log("Up");
-                InputManager.Instance.ExectueCmd(UP_CONTROL);
+                ExecuteCommand(UP_CONTROL);                
             }
 
             // Down
             if (Input.GetKey(KeyCode.DownArrow))
             {
-                Debug.Log("Down");
-                InputManager.Instance.ExectueCmd(DOWN_CONTROL);
+                ExecuteCommand(DOWN_CONTROL);                
             }
 
             // Left
             if (Input.GetKey(KeyCode.LeftArrow))
             {
-                Debug.Log("Left");
-                InputManager.Instance.ExectueCmd(LEFT_CONTROL);
+                ExecuteCommand(LEFT_CONTROL);                
             }
 
             // Right
             if (Input.GetKey(KeyCode.RightArrow))
             {
-                Debug.Log("Right");
-                InputManager.Instance.ExectueCmd(RIGHT_CONTROL);
+                ExecuteCommand(RIGHT_CONTROL);                
             }
 
             //Space
             if (Input.GetKeyDown(KeyCode.Space))
-            {
-                Debug.Log("Action");
-                InputManager.Instance.ExectueCmd(ACTION_CONTROL);
+            {                
+                ExecuteCommand(ACTION_CONTROL);
             }
+        }
+
+        private void ExecuteCommand(string _cmd)
+        {
+            Debug.Log(_cmd);
+            InputManager.Instance.ExectueCmd(_cmd);
         }
     }
 }
