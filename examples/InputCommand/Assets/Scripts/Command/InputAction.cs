@@ -22,9 +22,8 @@ namespace aeonphyxius.command
 {
     public class InputAction : CommandBase
     {
-        public InputAction(Action _command, string _cmdName) : base(_command, _cmdName)
+        public InputAction(Action _command) : base(_command)
         {
-
         }
 
         /// <summary>

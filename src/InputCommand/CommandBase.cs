@@ -22,13 +22,11 @@ namespace aeonphyxius.command
 {
     public abstract class CommandBase
     {
-        protected string commandName;
         protected Action command;
 
-        public CommandBase(Action _command, string _commandName)
+        public CommandBase(Action _command)
         {
-            command = _command;
-            commandName = _commandName;
+            command = _command;        
         }
 
         public abstract void Execute();

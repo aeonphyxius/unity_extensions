@@ -4,12 +4,12 @@ using System;
 public class PlayerControl : MonoBehaviour
 {
     private const float MOVE_SPEED = 10.0f;
-    private Renderer renderer;
+    private Renderer r;
 
 	void Start ()
     {
-        renderer = GetComponent<Renderer>();
-        renderer.material.SetColor("_Color", Color.green);
+        r = GetComponent<Renderer>();
+        r.material.SetColor("_Color", Color.green);
 	}
 	
 	
@@ -26,13 +26,13 @@ public class PlayerControl : MonoBehaviour
 
     public void OnActionPressed()
     {
-        if (renderer.material.GetColor("_Color").Equals(Color.green))
+        if (r.material.GetColor("_Color").Equals(Color.green))
         {
-            renderer.material.SetColor("_Color", Color.red);
+            r.material.SetColor("_Color", Color.red);
         }
         else
         {
-            renderer.material.SetColor("_Color", Color.green);
+            r.material.SetColor("_Color", Color.green);
         }
         
     }

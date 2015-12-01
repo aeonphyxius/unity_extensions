@@ -15,13 +15,12 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+
 using System;
-using System.Collections.Specialized;
 using System.Collections.Generic;
 
 namespace aeonphyxius.command
-{
-    
+{    
     public class InputManager
     {
         /// <summary>
@@ -63,11 +62,11 @@ namespace aeonphyxius.command
         {
             if (commandList.ContainsKey(_cmdName))
             {
-                commandList[_cmdName] = new InputAction(_cmd, _cmdName);
+                commandList[_cmdName] = new InputAction(_cmd);
             }
             else
             {
-                commandList.Add(_cmdName, new InputAction(_cmd, _cmdName));
+                commandList.Add(_cmdName, new InputAction(_cmd));
             }
         }
 
@@ -83,11 +82,11 @@ namespace aeonphyxius.command
         /// Execute a command
         /// </summary>
         /// <param name="_cmd">Command's name to be executed </param>
-        public void ExectueCmd(string _cmd)
+        public void ExectueCmd(string _cmdName)
         {
-            if (commandList.ContainsKey(_cmd))
+            if (commandList.ContainsKey(_cmdName))
             {
-                commandList[_cmd].Execute();
+                commandList[_cmdName].Execute();
             }
             else
             {
