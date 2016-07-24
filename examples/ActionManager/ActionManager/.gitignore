@@ -1,0 +1,150 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+UnityVS/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+UnityVS.*
+ehthumbs.db
+[Tt]humbs.db
+
+!*.dll
+!Rewired_Editor.dll
+!TAEngine.dll
+!FreeType.dll
+!FreeType64.dll
+!*.obj
+Assets/ShaderForge/
+Assets/Art/Cutscenes/1.2/Thumbs.db.meta
+Assets/Art/Cutscenes/1.3/Thumbs.db.meta
+Assets/Art/Cutscenes/1.4/Thumbs.db.meta
+Assets/Art/Cutscenes/Thumbs.db.meta
+Assets/Art/Frames/Thumbs.db.meta
+Assets/Art/IntroArt/sc2/Thumbs.db.meta
+Assets/Art/IntroArt/sc4/explosion_3/Thumbs.db.meta
+Assets/Art/Materials/Explosions/Thumbs.db.meta
+Assets/Art/Menus/Controller/Thumbs.db.meta
+Assets/Art/Menus/Thumbs.db.meta
+Assets/Art/Meshes/PowerUps/4Way/Thumbs.db.meta
+Assets/Art/Meshes/Ships/Player/Thumbs.db.meta
+Assets/Art/Shader/StanShaders/Thumbs.db.meta
+Assets/Art/TestObjects/Scout/Thumbs.db.meta
+Assets/Art/Textures/2DSprites/Thumbs.db.meta
+Assets/Art/Textures/Bullets/Thumbs.db.meta
+Assets/Art/Textures/Effects/Environment/Electric/Electro_1/Thumbs.db.meta
+Assets/Art/Textures/Effects/Environment/Electric/Electro_2/Thumbs.db.meta
+Assets/Art/Textures/Effects/Environment/Electric/Electro_3/Thumbs.db.meta
+Assets/Art/Textures/Effects/Environment/Thumbs.db.meta
+Assets/Art/Textures/Effects/Thumbs.db.meta
+Assets/Art/Textures/HUD/FullHUD/Thumbs.db.meta
+Assets/Art/Textures/HUD/RankIcons/Thumbs.db.meta
+Assets/Art/Textures/HUD/Thumbs.db.meta
+Assets/Art/Textures/LUT/Thumbs.db.meta
+Assets/Art/Textures/MatCaps/Thumbs.db.meta
+Assets/Art/Textures/Menus/Thumbs.db.meta
+Assets/Art/Textures/NormalMaps/Thumbs.db.meta
+Assets/Art/Textures/Particles/Thumbs.db.meta
+Assets/Art/Textures/Powerups/Capsule/Thumbs.db.meta
+Assets/Art/Textures/Powerups/Thumbs.db.meta
+Assets/Art/Textures/Ships/Enemy/Thumbs.db.meta
+Assets/Art/Textures/Skyboxes/Thumbs.db.meta
+Assets/SpaceNavigator.meta
+Assets/SpaceNavigator/Changelog.txt
+Assets/SpaceNavigator/Changelog.txt.meta
+Assets/SpaceNavigator/Editor.meta
+Assets/SpaceNavigator/Editor/SpaceNavigatorWindow.cs
+Assets/SpaceNavigator/Editor/SpaceNavigatorWindow.cs.meta
+Assets/SpaceNavigator/Editor/ViewportController.cs
+Assets/SpaceNavigator/Editor/ViewportController.cs.meta
+Assets/SpaceNavigator/License.txt
+Assets/SpaceNavigator/License.txt.meta
+Assets/SpaceNavigator/Plugins.meta
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle.meta
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents.meta
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/Info.plist
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/Info.plist.meta
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/MacOS.meta
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/MacOS/3DConnexionWrapperU5
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/MacOS/3DConnexionWrapperU5.meta
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/Resources.meta
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/Resources/3DConnexionWrapperU5-Info.plist
+Assets/SpaceNavigator/Plugins/3DConnexionWrapperU5.bundle/Contents/Resources/3DConnexionWrapperU5-Info.plist.meta
+Assets/SpaceNavigator/Plugins/QuaternionExtensions.cs
+Assets/SpaceNavigator/Plugins/QuaternionExtensions.cs.meta
+Assets/SpaceNavigator/Plugins/Settings.meta
+Assets/SpaceNavigator/Plugins/Settings/Locks.cs
+Assets/SpaceNavigator/Plugins/Settings/Locks.cs.meta
+Assets/SpaceNavigator/Plugins/Settings/Settings.cs
+Assets/SpaceNavigator/Plugins/Settings/Settings.cs.meta
+Assets/SpaceNavigator/Plugins/SpaceNavigator.cs
+Assets/SpaceNavigator/Plugins/SpaceNavigator.cs.meta
+Assets/SpaceNavigator/Plugins/SpaceNavigatorMac.cs
+Assets/SpaceNavigator/Plugins/SpaceNavigatorMac.cs.meta
+Assets/SpaceNavigator/Plugins/SpaceNavigatorWindows.cs
+Assets/SpaceNavigator/Plugins/SpaceNavigatorWindows.cs.meta
+Assets/SpaceNavigator/Plugins/TDx.TDxInput.dll
+Assets/SpaceNavigator/Plugins/TDx.TDxInput.dll.meta
+Assets/SpaceNavigator/README.txt
+Assets/SpaceNavigator/README.txt.meta
+Assets/SpaceNavigator/Runtime samples.meta
+Assets/SpaceNavigator/Runtime samples/- Fly around.meta
+Assets/SpaceNavigator/Runtime samples/- Fly around/Fly around.unity
+Assets/SpaceNavigator/Runtime samples/- Fly around/Fly around.unity.meta
+Assets/SpaceNavigator/Runtime samples/- Fly around/Scripts.meta
+Assets/SpaceNavigator/Runtime samples/- Fly around/Scripts/FlyAround.cs
+Assets/SpaceNavigator/Runtime samples/- Fly around/Scripts/FlyAround.cs.meta
+Assets/SpaceNavigator/Runtime samples/- Fly around/Scripts/SmoothFollow2.cs
+Assets/SpaceNavigator/Runtime samples/- Fly around/Scripts/SmoothFollow2.cs.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Audio.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Audio/Electric hum.wav
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Audio/Electric hum.wav.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Audio/Electric zap.wav
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Audio/Electric zap.wav.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Folow curve.unity
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Folow curve.unity.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models/Curve.FBX
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models/Curve.FBX.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models/Materials.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models/Materials/No Name.mat
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models/Materials/No Name.mat.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models/Torus.FBX
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Models/Torus.FBX.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Scripts.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Scripts/Torus.cs
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Scripts/Torus.cs.meta
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Scripts/TorusController.cs
+Assets/SpaceNavigator/Runtime samples/- Follow curve/Scripts/TorusController.cs.meta
+Assets/SpaceNavigator/Runtime samples/Materials.meta
+Assets/SpaceNavigator/Runtime samples/Materials/grid.mat
+Assets/SpaceNavigator/Runtime samples/Materials/grid.mat.meta
+Assets/SpaceNavigator/Runtime samples/Textures.meta
+Assets/SpaceNavigator/Runtime samples/Textures/grid.psd
+Assets/SpaceNavigator/Runtime samples/Textures/grid.psd.meta
+Assets/Rewired/Internal/Libraries/Runtime/Resources.meta
+Assets/Rewired/Internal/Libraries/Runtime/Resources/Libs.meta
